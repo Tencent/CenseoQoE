@@ -1,0 +1,14 @@
+cmake-build-debug
+.idea
+third_party/openssl
+third_party/libcurl
+third_party/libtorch
+third_party/ffmpeg_lib
+third_party/opencv_lib
+third_party/libzip
+third_party/x264-master
+install_packages
+checkpoints
+results
+.DS_*
+build

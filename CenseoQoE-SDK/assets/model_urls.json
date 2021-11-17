@@ -1,0 +1,41 @@
+{
+  "UGC": {
+    "fr": {
+      "general": {},
+      "compressed": {}
+    },
+    "nr": {
+      "general": {
+        "model_url": "https://censeoqoe-1258344700.cos.ap-guangzhou.myqcloud.com/CenseoQoE/checkpoints/UGC/nr/general/model.pt",
+        "config_url": "https://censeoqoe-1258344700.cos.ap-guangzhou.myqcloud.com/CenseoQoE/checkpoints/UGC/nr/general/config.json"
+      },
+      "compressed": {}
+    }
+  },
+  "PGC": {
+    "fr": {
+      "general": {},
+      "compressed": {}
+    },
+    "nr": {
+      "general": {},
+      "compressed": {
+        "model_url": "https://censeoqoe-1258344700.cos.ap-guangzhou.myqcloud.com/CenseoQoE/checkpoints/PGC/nr/compressed/model.pt",
+        "config_url": "https://censeoqoe-1258344700.cos.ap-guangzhou.myqcloud.com/CenseoQoE/checkpoints/PGC/nr/compressed/config.json"
+      }
+    }
+  },
+  "GAMES": {
+    "fr": {
+      "general": {},
+      "compressed": {}
+    },
+    "nr": {
+      "general": {},
+      "compressed": {
+        "model_url": "https://censeoqoe-1258344700.cos.ap-guangzhou.myqcloud.com/CenseoQoE/checkpoints/GAMES/nr/compressed/model.pt",
+        "config_url": "https://censeoqoe-1258344700.cos.ap-guangzhou.myqcloud.com/CenseoQoE/checkpoints/GAMES/nr/compressed/config.json"
+      }
+    }
+  }
+}

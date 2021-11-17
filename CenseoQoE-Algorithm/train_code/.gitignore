@@ -1,0 +1,8 @@
+data
+logs
+.DS_Store
+results
+taiji_scripts
+scripts_extra
+configs/taiji_configs
+configs/own_datasets

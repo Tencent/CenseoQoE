@@ -1,0 +1,10 @@
+numpy==1.18.4
+opencv-python
+tqdm
+onnx==1.8
+scipy==1.4.1
+torch==1.7.1
+torchvision==0.8.2
+mmcv==1.1.2
+matplotlib==3.1.2
+visdom
