@@ -9,6 +9,15 @@ CenseoQoE-Algorithm 是通用的画质评价算法模型的训练框架，Censeo
 
 为什么叫**CenseoQoE**？[Censeo](https://en.wiktionary.org/wiki/censeo) 在拉丁语中是我认为/我觉得的意思，与图像/视频画质体验评价领域的主观评测概念相符，QoE则是体验质量（Quality of Experience）。
 
+### News
+Our two papers based on CenseoQoE have been accepted by [ICASSP 2022](https://2022.ieeeicassp.org/)
+- [Subjective and Objective Quality Assessment of Mobile Gaming Video](https://arxiv.org/abs/2103.05099)
+- [Considering user agreement in learning to predict the aesthetic quality](https://arxiv.org/abs/2110.06956)
+
+Please refer to these two papers for more detailed information. More released pretrained models can be found at [CenseoQoE-Algorithm](./CenseoQoE-Algorithm).
+
+If our code helps your research, please consider citing these two papers.
+
 ### 主要特性
 - **[CenseoQoE-Algorithm](./CenseoQoE-Algorithm)**
     提供图像/视频画质评价算法模型训练的codebase，集成自研的模型以及业界开源的算法模型，支持无参考和有参考。此外，我们会公开不同业务场景下
